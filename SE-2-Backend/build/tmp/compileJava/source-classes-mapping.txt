@@ -1,0 +1,94 @@
+Service/GradesService.java
+ Service.GradesService
+Repositories/GradesRepository.java
+ Repositories.GradesRepository
+Service/UserSubjectsService.java
+ Service.UserSubjectsService
+Repositories/UserSubjectsRepository.java
+ Repositories.UserSubjectsRepository
+Service/CalendarService.java
+ Service.CalendarService
+Controllers/HomeController.java
+ Controllers.HomeController
+Controllers/GradesController.java
+ Controllers.GradesController
+Repositories/DepartmentsRepository.java
+ Repositories.DepartmentsRepository
+Service/TeacherSubjectsService.java
+ Service.TeacherSubjectsService
+Models/UserSubjects.java
+ Models.UserSubjects
+Controllers/CalendarController.java
+ Controllers.CalendarController
+Service/MyUserDetails.java
+ Service.MyUserDetails
+Repositories/SubjectsRepository.java
+ Repositories.SubjectsRepository
+Repositories/TeacherSubjectsRepository.java
+ Repositories.TeacherSubjectsRepository
+Service/MyUserDetailsService.java
+ Service.MyUserDetailsService
+Controllers/CourseRegistrationController.java
+ Controllers.CourseRegistrationController
+Configs/SecurityConfig.java
+ Configs.SecurityConfig
+Controllers/ScheduleController.java
+ Controllers.ScheduleController
+Models/Users.java
+ Models.Users
+Models/Grades.java
+ Models.Grades
+Models/Teachers.java
+ Models.Teachers
+Models/CalendarEntity.java
+ Models.CalendarEntity
+Models/TeacherSubjects.java
+ Models.TeacherSubjects
+Repositories/UserRepository.java
+ Repositories.UserRepository
+Models/Subjects.java
+ Models.Subjects
+Controllers/MainController.java
+ Controllers.MainController
+Service/ScheduleService.java
+ Service.ScheduleService
+Configs/GlobalVariables.java
+ Configs.GlobalVariables
+Models/Faculty.java
+ Models.Faculty
+Configs/AddUserSubjectsRequest.java
+ Configs.AddUserSubjectsRequest
+Controllers/AttendanceController.java
+ Controllers.AttendanceController
+Models/Attendance.java
+ Models.Attendance
+Repositories/ScheduleRepository.java
+ Repositories.ScheduleRepository
+Configs/UserCredentialsPojo.java
+ Configs.UserCredentialsPojo
+Models/Departments.java
+ Models.Departments
+DemoApplication.java
+ DemoApplication
+Controllers/CurriculaController.java
+ Controllers.CurriculaController
+Service/JwtUtil.java
+ Service.JwtUtil
+Filters/JwtRequestFilter.java
+ Filters.JwtRequestFilter
+Repositories/CalendarRepository.java
+ Repositories.CalendarRepository
+Service/AttendanceService.java
+ Service.AttendanceService
+Models/AuthenticationResponse.java
+ Models.AuthenticationResponse
+Service/SubjectsService.java
+ Service.SubjectsService
+Repositories/AttendanceRepository.java
+ Repositories.AttendanceRepository
+Models/AuthenticationRequest.java
+ Models.AuthenticationRequest
+Models/Schedule.java
+ Models.Schedule
+Service/DepartmentsService.java
+ Service.DepartmentsService
